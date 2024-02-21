@@ -1,0 +1,53 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+
+body {
+    font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+    background-image: url('https://img.freepik.com/free-photo/abstract-textured-backgound_1258-30436.jpg?w=1380&t=st=1708497574~exp=1708498174~hmac=fcb9d16e356a1efd0003f548423dfc3d56e5eeec330e33f5f14ecb52caa37618');
+}
+
+.su {
+    cursor: default;
+    font-family: "Poppins", sans-serif;
+  font-weight: 300;
+  font-style: normal;
+}
+.su :hover{
+    color: aliceblue;
+
+}
+
+
+
+img{
+    border-radius: 50%;
+}
+nav{
+    background-color: rgba(2, 2, 2, 0.979);
+    text-decoration: none;
+    padding: 20px;
+}
+.yo {
+    display: inline;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    justify-content: space-between;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+.yo :hover{
+    color: rgb(240, 6, 14);
+    transition: 2s;
+}
+
+footer{
+    background-color:rgb(166, 199, 151);
+}
+.la{
+    text-decoration: none;
+    color: rgb(11, 67, 249);
+}
